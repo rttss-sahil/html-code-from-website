@@ -1,0 +1,10 @@
+{
+  "short_name": "HTML from Webpage",
+  "name": "HTML Code from Any Webste URL",
+  "icons": [
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
